@@ -1,7 +1,7 @@
 Front-End Dev Interview Questions
 =======================================
 
-### Based off my experiences searching for a job in Toronto 2014.
+### Based on my experiences searching for a job in Toronto 2014.
 
 
 
@@ -82,6 +82,9 @@ Front-End Dev Interview Questions
 
 * When you start a new project, what is your development approach?
 * What do you do when you find a bug?
+* Do you blog?
+* Have you contributed to any open source projects?
+* Have you participated in a hackathon?
 * How many different ways can you center text vertically and horizontally on a page?
 * How would you rate one of your latest projects out of 10? What would you change about it?
 * Do you use Photoshop? Can you slice a PSD and get assets out of it?
