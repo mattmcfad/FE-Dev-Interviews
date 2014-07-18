@@ -42,6 +42,7 @@ Front-End Dev Interview Questions
 * What is an example of a pseudo element?
 * What are vendor prefixes?
 * Do you use bootstrap?
+* Do you have any experience with CSS preprocessors?
 * How many different ways can you apply styling to a webpage?
 * Using animations what CSS property do you use to increase/decrease the size of an element?
 
@@ -50,15 +51,19 @@ Front-End Dev Interview Questions
 * What is Responsive Design?
 * Have you used break points?
 * What are a few different ways you could implement Responsive Design?
-* What is Mobile first design? 
+* What is Mobile first design?
+* How familiar are you with adaptive design and development? 
 
 ### JavaScript
 
 * Have you used any testing on your code?
+* Have you used other JavaScript Libraries?
 * Do you lint your code?
+* Which linters do you regularly use?
 * What is event binding?
 * When would you use a Javascript animation over CSS3 Animations? Explain why.
 * You have a button outside of a form, describe how you would use JavaScript and jQuery to collect data from the form after clicking on the button and what would you do with the data?
+* Things like Backbone and Underscore are a big part of our daily toolkit. Do you have experience with those? Do you enjoy them?
 
 
 ### Computer science questions
@@ -88,9 +93,15 @@ Front-End Dev Interview Questions
 * How many different ways can you center text vertically and horizontally on a page?
 * How would you rate one of your latest projects out of 10? What would you change about it?
 * Do you use Photoshop? Can you slice a PSD and get assets out of it?
-* Have you used other JavaScript Libraries?
 * Are you familiar with version control? Do you use Git, Subversion or Mercurial?
 * Have you worked with a CMS? 
+* What's your typical workflow like?
+* What browsers do you typically test in and support?
+* What do you use as your primary text editor?
+* Do you use Github and/or Bitbucket?
+* What is your testing workflow?
+* Do you think you're a fast learner? If so, why?
+* What was the most difficult project you worked on and why?
 
 
 
