@@ -61,6 +61,7 @@ Front-End Dev Interview Questions
 * Do you lint your code?
 * Which linters do you regularly use?
 * What is event binding?
+* What is the difference between == and === ?
 * When would you use a Javascript animation over CSS3 Animations? Explain why.
 * You have a button outside of a form, describe how you would use JavaScript and jQuery to collect data from the form after clicking on the button and what would you do with the data?
 * Things like Backbone and Underscore are a big part of our daily toolkit. Do you have experience with those? Do you enjoy them?
@@ -109,6 +110,25 @@ Front-End Dev Interview Questions
 ## How to prepare for an interview?
 
 ## What to ask at the interview?
+
+* What type of work do you usually do? What are you working on right now?
+* Whats your favorite project at the moment, why?
+* Do you generally do product work or advertisements?
+* Do you build static websites or CMS? .com or apps?
+* What type of clients do you generally deal with?
+* What is a typical day in the life as that role?
+* What would my responsibilities be?
+* What is your stack?
+* How big is your development team?
+* What are the tech backgrounds of your developers?
+* What Front-End technologies do you use?
+* What is the culture like at XYZ? What is your company culture?
+* Do you guys eat lunch together?
+* Do you have social events?
+* Does the company do hackathons?
+* Are you supportive of developers attending conferences?
+* Your company has a foosball table, but do you actually use it?
+* Where is the beer fridge / scotch cabinet?
 
 ## Final notes:
 
