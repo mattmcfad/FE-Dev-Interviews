@@ -3,8 +3,6 @@ Front-End Dev Interview Questions
 
 ### Based on my experiences searching for a job in Toronto 2014.
 
-
-
 ## Interview formats:
 
 * Screening phone call
@@ -35,6 +33,11 @@ Front-End Dev Interview Questions
 
 * What is a doctype?
 * Can you name some HTML5 elements?
+* What are the new media-related elements in HTML5?
+* Have you worked with Canvas?
+* What are SVGs?
+* What are different types of storage in HTML5?
+* Are you familiar with Jade or HAML?
 
 ### CSS
 
@@ -44,6 +47,8 @@ Front-End Dev Interview Questions
 * Do you use bootstrap?
 * Do you have any experience with CSS preprocessors?
 * How many different ways can you apply styling to a webpage?
+* What does the CSS Child Selector do?
+* Explain the properties of Float in CSS? 
 * Using animations what CSS property do you use to increase/decrease the size of an element?
 
 ### Responsive Design
@@ -86,17 +91,28 @@ Front-End Dev Interview Questions
 
 ### General questions
 
+* How would you rate your skills 1 - 10 of the following:
+	* HTML
+	* CSS
+	* JavaScript
+	* jQuery
+	* PHP
+	* Wordpress
 * When you start a new project, what is your development approach?
+* What's your typical workflow like?
+* What is your preferred development environment
 * What do you do when you find a bug?
 * Do you blog?
 * Have you contributed to any open source projects?
 * Have you participated in a hackathon?
 * How many different ways can you center text vertically and horizontally on a page?
+* Name as many ways as possible to make text not display on your page.
+* How do you optimize a website's assets?
+* Name three ways to reduce page load time?
 * How would you rate one of your latest projects out of 10? What would you change about it?
 * Do you use Photoshop? Can you slice a PSD and get assets out of it?
 * Are you familiar with version control? Do you use Git, Subversion or Mercurial?
 * Have you worked with a CMS? 
-* What's your typical workflow like?
 * What browsers do you typically test in and support?
 * What do you use as your primary text editor?
 * Do you use Github and/or Bitbucket?
@@ -104,10 +120,18 @@ Front-End Dev Interview Questions
 * Do you think you're a fast learner? If so, why?
 * What was the most difficult project you worked on and why?
 
-
-
-
 ## How to prepare for an interview?
+
+* Research the company
+	* Why do you want to work for them?
+* Research who you are interviewing with
+* Minify your live projects and personal website
+	* Be prepared to have the interviewer pull up your website and project and view source. 
+	* If it is minified then they might start a conversation about what task runner you used to minify it.
+	* If it is not minified then they may pick apart your code and poke around. 
+* Review your projects' code.
+* Review your resume
+	* Anything listed on your resume is fair game. If you listed SQL as a skill then be prepared to answer questions about SQL. Only attribute skills you are confident in.
 
 ## What to ask at the interview?
 
@@ -129,9 +153,3 @@ Front-End Dev Interview Questions
 * Are you supportive of developers attending conferences?
 * Your company has a foosball table, but do you actually use it?
 * Where is the beer fridge / scotch cabinet?
-
-## Final notes:
-
-* Anything on your resume is fair game. If you have SQL listed under "skills" then be prepared to answer a question on what is a LEFT JOIN? 
-
-
