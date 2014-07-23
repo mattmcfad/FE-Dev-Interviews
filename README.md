@@ -67,6 +67,7 @@ Front-End Dev Interview Questions
 * Which linters do you regularly use?
 * What is event binding?
 * What is the difference between == and === ?
+* What is an Object Prototype?
 * When would you use a Javascript animation over CSS3 Animations? Explain why.
 * You have a button outside of a form, describe how you would use JavaScript and jQuery to collect data from the form after clicking on the button and what would you do with the data?
 * Things like Backbone and Underscore are a big part of our daily toolkit. Do you have experience with those? Do you enjoy them?
@@ -132,6 +133,50 @@ Front-End Dev Interview Questions
 * Review your projects' code.
 * Review your resume
 	* Anything listed on your resume is fair game. If you listed SQL as a skill then be prepared to answer questions about SQL. Only attribute skills you are confident in.
+* Read the Job posting.
+	* If they list "nice to haves" technologies that you've never heard of, then spend some time learning what they are. 
+	* Brush up on skills that they're looking for that you may not have used in awhile
+		* If they're looking for someone for AngularJS project, maybe spend a few nights building an with it.
+* Familiarize yourself with some of the latest web technologies
+	* Frameworks
+		* Angular
+		* Backbone
+		* Ember
+		* Meteor
+		* Bootstrap
+		* Mustache
+	* Libraries
+		* ReactJS
+		* Lo-Dash
+		* ModernizrJS
+		* Underscore
+	* Task Runners
+		* Grunt
+		* Gulp
+	* Testing Frameworks
+		* Jasmine
+		* Mocha
+		* QUnit
+	* Test Runner
+		* Karma
+	* Tools
+		* NPM
+		* Bower
+		* RequireJS
+	* Preprocessors
+		* HTML
+			* Jade
+			* Haml
+		* CSS
+			* Sass
+			* LESS
+			* Stylus
+		* JavaScript
+			* Coffeescript
+	* Canvas
+	* NodeJS
+	* MEAN stack
+
 
 ## What to ask at the interview?
 
