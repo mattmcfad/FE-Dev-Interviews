@@ -142,14 +142,18 @@ Front-End Dev Interview Questions
 		* Angular
 		* Backbone
 		* Ember
+		* ReactJS
 		* Meteor
 		* Bootstrap
-		* Mustache
 	* Libraries
-		* ReactJS
 		* Lo-Dash
 		* ModernizrJS
 		* Underscore
+		* Marionette
+		* WebGL
+		* threeJS
+		* D3
+		* Processing
 	* Task Runners
 		* Grunt
 		* Gulp
@@ -169,7 +173,7 @@ Front-End Dev Interview Questions
 			* Haml
 		* CSS
 			* Sass
-			* LESS
+			* Less
 			* Stylus
 		* JavaScript
 			* Coffeescript
