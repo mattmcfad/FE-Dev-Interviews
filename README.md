@@ -6,7 +6,7 @@ Front-End Dev Interview Questions
 ## Interview formats:
 
 * Screening phone call
-* Non-Formal chat about position 
+* Non-formal chat about position 
 * Formal interview that covers non-technical and technical questions
 * Interview Test
 * Technical Interview
@@ -20,11 +20,12 @@ Front-End Dev Interview Questions
 * What have you been up to since X?
 * What side projects have you been working on?
 * How do you indulge yourself in the industry? How do you stay current?
-* Why did you take a Web Development bootcamp after a Comp Sci Degree?
+* Why did you take a web development bootcamp after a Comp Sci Degree?
 * What about CompanyXYZ interests you?
 * Why do you think you'd be a good fit?
 * What is your biggest character strength and weakness?
 * If you could work for any company, which would it be and why?
+* Where do you want to be in 5 years?
 * What music do you listen to? - They replied with yeah we play X here in the office.
 
 ## Technical questions
@@ -37,7 +38,7 @@ Front-End Dev Interview Questions
 * Have you worked with Canvas?
 * What are SVGs?
 * What are different types of storage in HTML5?
-* Are you familiar with Jade or HAML?
+* Are you familiar with Jade or Haml?
 
 ### CSS
 
@@ -72,16 +73,15 @@ Front-End Dev Interview Questions
 * You have a button outside of a form, describe how you would use JavaScript and jQuery to collect data from the form after clicking on the button and what would you do with the data?
 * Things like Backbone and Underscore are a big part of our daily toolkit. Do you have experience with those? Do you enjoy them?
 
-
 ### Computer science questions
 #### Using any programming language and being syntactically correct as possible, on paper:
 * Write out a function that solves the Fibonacci sequence.
-* Write a function that solves the Fibonacci sequence a different way.
-* In big O notation compare and explain the complexity of both functions.
+	* Write a function that solves the Fibonacci sequence a different way.
+	* In big O notation compare and explain the complexity of both functions.
 * Write out a function that computes a Factorial given a non-negative integer number.
-* Write out the function a different way.
-* In big O notation compare and explain the complexity of both functions.
-* Given an Array of Integers, write a function that computes the sum of the two largest numbers.
+	* Write out the function a different way.
+	* In big O notation compare and explain the complexity of both functions.
+* Given an Array of Integers, write a function that computes the sum of the two largest numbers. 
 * Fizz-Buzz: Write a function that iterates through the numbers 1 - 100 and if the number is divisible by 3 print "fizz", if its divisible by 5 print "buzz", if its divisible by both then print "fizz"
 
 ### Client scenarios
@@ -101,9 +101,10 @@ Front-End Dev Interview Questions
 	* Wordpress
 * When you start a new project, what is your development approach?
 * What's your typical workflow like?
-* What is your preferred development environment
+* What is your preferred development environment?
 * What do you do when you find a bug?
 * Do you blog?
+* Do you speak at conferences or lead workshops? Have you done public speaking in the sector?
 * Have you contributed to any open source projects?
 * Have you participated in a hackathon?
 * How many different ways can you center text vertically and horizontally on a page?
@@ -115,6 +116,7 @@ Front-End Dev Interview Questions
 * Are you familiar with version control? Do you use Git, Subversion or Mercurial?
 * Have you worked with a CMS? 
 * What browsers do you typically test in and support?
+* Are you familiar with Cross-browser compatibility testing? Have you used it on any projects?
 * What do you use as your primary text editor?
 * Do you use Github and/or Bitbucket?
 * What is your testing workflow?
@@ -133,7 +135,7 @@ Front-End Dev Interview Questions
 * Review your projects' code.
 * Review your resume
 	* Anything listed on your resume is fair game. If you listed SQL as a skill then be prepared to answer questions about SQL. Only attribute skills you are confident in.
-* Read the Job posting.
+* Read the job posting.
 	* If they list "nice to haves" technologies that you've never heard of, then spend some time learning what they are. 
 	* Brush up on skills that they're looking for that you may not have used in awhile
 		* If they're looking for someone for AngularJS project, maybe spend a few nights building an with it.
@@ -147,7 +149,7 @@ Front-End Dev Interview Questions
 		* Bootstrap
 	* Libraries
 		* Lo-Dash
-		* ModernizrJS
+		* Modernizr
 		* Underscore
 		* Marionette
 		* WebGL
@@ -194,7 +196,7 @@ Front-End Dev Interview Questions
 * What is your stack?
 * How big is your development team?
 * What are the tech backgrounds of your developers?
-* What Front-End technologies do you use?
+* What front-end technologies do you use?
 * What is the culture like at XYZ? What is your company culture?
 * Do you guys eat lunch together?
 * Do you have social events?
