@@ -51,6 +51,7 @@ Front-End Dev Interview Questions
 * What does the CSS Child Selector do?
 * Explain the properties of Float in CSS? 
 * Using animations what CSS property do you use to increase/decrease the size of an element?
+* How do you guarantee a section of CSS will override any other reference?
 
 ### Responsive Design
 
@@ -63,15 +64,21 @@ Front-End Dev Interview Questions
 ### JavaScript
 
 * Have you used any testing on your code?
-* Have you used other JavaScript Libraries?
+* Have you used any other JavaScript Libraries?
 * Do you lint your code?
 * Which linters do you regularly use?
 * What is event binding?
 * What is the difference between == and === ?
 * What is an Object Prototype?
+* When you write your JavaScript, do you choose functional programming or object oriented?
+* Describe how you would make a JavaScript object. How would you call a function inside of it that accesses a property of that object?
 * When would you use a Javascript animation over CSS3 Animations? Explain why.
 * You have a button outside of a form, describe how you would use JavaScript and jQuery to collect data from the form after clicking on the button and what would you do with the data?
-* Things like Backbone and Underscore are a big part of our daily toolkit. Do you have experience with those? Do you enjoy them?
+* What is use 'strict'?
+* Explain what happens when you make an AJAX request?
+* What happens when you use var?
+* What is a promise?
+* What is a closure?
 
 ### Computer science questions
 #### Using any programming language and being syntactically correct as possible, on paper:
@@ -104,6 +111,9 @@ Front-End Dev Interview Questions
 * What is your preferred development environment?
 * What do you do when you find a bug?
 * Do you blog?
+* What blogs do you follow to stay up to date?
+* Who do you follow on twitter?
+* Who is the best developer that you've ever worked with and why?
 * Do you speak at conferences or lead workshops? Have you done public speaking in the sector?
 * Have you contributed to any open source projects?
 * Have you participated in a hackathon?
@@ -116,6 +126,7 @@ Front-End Dev Interview Questions
 * Are you familiar with version control? Do you use Git, Subversion or Mercurial?
 * Have you worked with a CMS? 
 * What browsers do you typically test in and support?
+* How would you test if you could use a microphone inside the browser on a mobile device?
 * Are you familiar with Cross-browser compatibility testing? Have you used it on any projects?
 * What do you use as your primary text editor?
 * Do you use Github and/or Bitbucket?
