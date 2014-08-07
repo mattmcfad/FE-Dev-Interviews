@@ -22,6 +22,7 @@ Front-End Dev Interview Questions
 * How do you indulge yourself in the industry? How do you stay current?
 * Why did you take a web development bootcamp after a Comp Sci Degree?
 * What about CompanyXYZ interests you?
+* What type of company do you want to work for?
 * Why do you think you'd be a good fit?
 * What is your biggest character strength and weakness?
 * If you could work for any company, which would it be and why?
@@ -65,12 +66,15 @@ Front-End Dev Interview Questions
 ### JavaScript
 
 * Have you used any testing on your code?
+* Are global variables good or bad?
 * Have you used any other JavaScript Libraries?
+* What is the difference between == and === ?
+* Have you used CoffeeScript?
 * Do you lint your code?
 * Which linters do you regularly use?
 * What is event binding?
-* What is the difference between == and === ?
-* What is an Object Prototype?
+* How do you trigger multiple events on click?
+* What are namespaces? Give an example.
 * When you write your JavaScript, do you choose functional programming or object oriented?
 * Describe how you would make a JavaScript object. How would you call a function inside of it that accesses a property of that object?
 * When would you use a JavaScript animation over CSS3 Animations? Explain why.
@@ -116,6 +120,7 @@ Front-End Dev Interview Questions
 	* Wordpress
 * When you start a new project, what is your development approach?
 * What's your typical workflow like?
+* What type of projects would you prefer to work on, JavaScript or HTML & CSS?
 * What is your preferred development environment?
 * What do you do when you find a bug?
 * Do you blog?
@@ -139,6 +144,8 @@ Front-End Dev Interview Questions
 * What do you use as your primary text editor?
 * Do you use Github and/or Bitbucket?
 * What is your testing workflow?
+* Have you worked with a team before?
+* Are you familiar with Agile methodologies?
 * Do you think you're a fast learner? If so, why?
 * What was the most difficult project you worked on and why?
 
