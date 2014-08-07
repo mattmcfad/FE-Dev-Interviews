@@ -27,7 +27,6 @@ Front-End Dev Interview Questions
 * What is your biggest character strength and weakness?
 * If you could work for any company, which would it be and why?
 * Where do you want to be in 5 years?
-
 * What music do you listen to? - They replied with yeah we play X here in the office.
 
 ## Technical questions
