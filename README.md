@@ -26,6 +26,7 @@ Front-End Dev Interview Questions
 * What is your biggest character strength and weakness?
 * If you could work for any company, which would it be and why?
 * Where do you want to be in 5 years?
+
 * What music do you listen to? - They replied with yeah we play X here in the office.
 
 ## Technical questions
@@ -46,7 +47,7 @@ Front-End Dev Interview Questions
 * What is an example of a pseudo element?
 * What are vendor prefixes?
 * Do you use bootstrap?
-* Do you have any experience with CSS preprocessors?
+* Do you have any experience with CSS preprocessors? Have you used LESS or Sass?
 * How many different ways can you apply styling to a webpage?
 * What does the CSS Child Selector do?
 * Explain the properties of Float in CSS? 
@@ -72,13 +73,20 @@ Front-End Dev Interview Questions
 * What is an Object Prototype?
 * When you write your JavaScript, do you choose functional programming or object oriented?
 * Describe how you would make a JavaScript object. How would you call a function inside of it that accesses a property of that object?
-* When would you use a Javascript animation over CSS3 Animations? Explain why.
+* When would you use a JavaScript animation over CSS3 Animations? Explain why.
 * You have a button outside of a form, describe how you would use JavaScript and jQuery to collect data from the form after clicking on the button and what would you do with the data?
 * What is use 'strict'?
+* How would you design a large scale project with JavaScript?
 * Explain what happens when you make an AJAX request?
 * What happens when you use var?
-* What is a promise?
-* What is a closure?
+* What is a Callback function?
+* What is a Promise?
+* What is a Closure?
+* What is a Prototype? Give an example.
+* What is Prototype Chaining?
+* What is Inheritance in JavaScript? Give an example.
+* How would you assign Child Specific Objects?
+* What is require in JavaScript? How could you use it to reduce load time to a webpage?
 
 ### Computer science questions
 #### Using any programming language and being syntactically correct as possible, on paper:
@@ -124,7 +132,7 @@ Front-End Dev Interview Questions
 * How would you rate one of your latest projects out of 10? What would you change about it?
 * Do you use Photoshop? Can you slice a PSD and get assets out of it?
 * Are you familiar with version control? Do you use Git, Subversion or Mercurial?
-* Have you worked with a CMS? 
+* Have you worked with a CMS?
 * What browsers do you typically test in and support?
 * How would you test if you could use a microphone inside the browser on a mobile device?
 * Are you familiar with Cross-browser compatibility testing? Have you used it on any projects?
