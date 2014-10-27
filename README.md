@@ -11,8 +11,6 @@ Front-End Dev Interview Questions
 * Interview Test
 * Technical Interview
 
-## Technical assignments
-
 ## HR questions
 
 * Tell me a little bit about yourself.
@@ -72,6 +70,7 @@ Front-End Dev Interview Questions
 * Do you lint your code?
 * Which linters do you regularly use?
 * What is event binding?
+* How do you prevent event bubbling?
 * How do you trigger multiple events on click?
 * What are namespaces? Give an example.
 * When you write your JavaScript, do you choose functional programming or object oriented?
@@ -87,6 +86,7 @@ Front-End Dev Interview Questions
 * What is a Closure?
 * What is a Prototype? Give an example.
 * What is Prototype Chaining?
+* What does the bind() function do? What does the call() function do?
 * What is Inheritance in JavaScript? Give an example.
 * How would you assign Child Specific Objects?
 * What is require in JavaScript? How could you use it to reduce load time to a webpage?
@@ -130,6 +130,7 @@ Front-End Dev Interview Questions
 * Have you contributed to any open source projects?
 * Have you participated in a hackathon?
 * How many different ways can you center text vertically and horizontally on a page?
+* How can you make a div the height of the page?
 * Name as many ways as possible to make text not display on your page.
 * How do you optimize a website's assets?
 * Name three ways to reduce page load time?
@@ -140,11 +141,13 @@ Front-End Dev Interview Questions
 * What browsers do you typically test in and support?
 * How would you test if you could use a microphone inside the browser on a mobile device?
 * Are you familiar with Cross-browser compatibility testing? Have you used it on any projects?
+* What is a polyfill?
 * What do you use as your primary text editor?
 * Do you use Github and/or Bitbucket?
 * What is your testing workflow?
 * Have you worked with a team before?
 * Are you familiar with Agile methodologies?
+* What is Test-Driven Development?
 * Do you think you're a fast learner? If so, why?
 * What was the most difficult project you worked on and why?
 
@@ -162,8 +165,8 @@ Front-End Dev Interview Questions
 	* Anything listed on your resume is fair game. If you listed SQL as a skill then be prepared to answer questions about SQL. Only attribute skills you are confident in.
 * Read the job posting.
 	* If they list "nice to haves" technologies that you've never heard of, then spend some time learning what they are. 
-	* Brush up on skills that they're looking for that you may not have used in awhile
-		* If they're looking for someone for AngularJS project, maybe spend a few nights building an with it.
+	* Brush up on skills that they're looking for.
+		* If they're looking for a candidate for an AngularJS project, maybe spend a few nights building an app with it.
 * Familiarize yourself with some of the latest web technologies
 	* Frameworks
 		* Angular
